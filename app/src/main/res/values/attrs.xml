@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="my_view">
+        <attr name="white_w" format="integer"/>
+        <attr name="white_h" format="integer"/>
+        <attr name="black_w" format="integer"/>
+        <attr name="black_h" format="integer"/>
+    </declare-styleable>
+</resources>
